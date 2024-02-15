@@ -1,13 +1,13 @@
 //
-//  pomodoroUITestsLaunchTests.swift
-//  pomodoroUITests
+//  PomodoroUITestsLaunchTests.swift
+//  PomodoroUITests
 //
 //  Created by sang hyeok hong on 2/16/24.
 //
 
 import XCTest
 
-final class pomodoroUITestsLaunchTests: XCTestCase {
+final class PomodoroUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

@@ -1,13 +1,13 @@
 //
-//  pomodoroUITests.swift
-//  pomodoroUITests
+//  PomodoroUITests.swift
+//  PomodoroUITests
 //
 //  Created by sang hyeok hong on 2/16/24.
 //
 
 import XCTest
 
-final class pomodoroUITests: XCTestCase {
+final class PomodoroUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
